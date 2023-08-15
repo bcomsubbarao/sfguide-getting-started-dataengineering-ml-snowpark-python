@@ -1,9 +1,9 @@
 {
-  "account"   : "",
-  "user"      : "",
-  "password"  : "",
-  "role"      : "",
-  "warehouse" : "",
-  "database"  : "",
-  "schema"    : ""
+  "account"   : "hfotsan-my79447",
+  "user"      : "SMTOINDIA",
+  "password"  : "Cater1926Piller",
+  "role"      : "ACCOUNTADMIN",
+  "warehouse" : "DASH_L",
+  "database"  : "DASH_DB",
+  "schema"    : "DASH_SCHEMA"
 }
